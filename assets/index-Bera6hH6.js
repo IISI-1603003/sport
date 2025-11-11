@@ -30,3 +30,4 @@ ${JSON.stringify({method:f.method,url:f.url,params:f.params,headers:f.headers},n
 1,Alice,123
 2,Bob,456
 3,Carol,789`}]))}function jn(w){w.onGet("/api/useruser/my/userDown").reply(200,[{userId:"user123",userName:"user123",unitName:"個人健身教練培訓",unitNo:"PTT"},{userId:"user456",userName:"user456",unitName:"運動心理學",unitNo:"SPY"},{userId:"a1f8bcfd-d4e1-40f4-bd9d-efe1bb88de08",userName:"小達",unitName:"健身房經營管理",unitNo:"GFM"},{userId:"26da7b46-918b-4810-9dad-fd995762ae28",userName:"小華",unitName:"健身房經營管理",unitNo:"GFM"},{userId:"b6bd4d44-503b-44fd-a8a4-e1feded83347",userName:"小潔",unitName:"運動心理學",unitNo:"SPY"}])}const $=new On(hn,{delayResponse:100});xn($);Rn($);Sn($);In($);Pn($);jn($);Tn($);Cn($);Ln($);$.onAny().passThrough();export{hn as default};
+//# sourceMappingURL=index-Bera6hH6.js.map
