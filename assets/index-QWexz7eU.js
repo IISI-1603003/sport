@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{e as o,c as t,o as s}from"./index-BxuKpZ1b.js";const _={class:"bg"},a={__name:"index",setup(c){return o(()=>{}),(n,r)=>(s(),t("div",_))}},i=e(a,[["__scopeId","data-v-478baf50"]]);export{i as default};

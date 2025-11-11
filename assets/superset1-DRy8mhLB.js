@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{b as s,o}from"./index-DqmTDoDs.js";const r={},t={seamless:"",frameBorder:"0",scrolling:"no",src:"http://localhost:8088/superset/dashboard/p/q4jn19enVyz/?standalone=3"};function n(a,c){return o(),s("iframe",t)}const f=e(r,[["render",n]]);export{f as default};
